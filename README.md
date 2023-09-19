@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Flutter, Kotlin, Jetpack Compose**
 
+- 😄 Pronouns: He/Him
+
 - 📫 How to reach me **kautsarrifat@gmail.com**
 
 ## About Me
