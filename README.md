@@ -18,7 +18,7 @@
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rifat-kautsar-620130185/)
+- LinkedIn: [Rifat Kautsar](https://www.linkedin.com/in/rifat-kautsar-620130185/)
 - Email: [kautsarrifat@gmail.com]
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
