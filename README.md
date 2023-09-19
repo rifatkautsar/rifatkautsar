@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Kotlin, Jetpack Compose**
 
-- 📫 How to reach me **[kautsarrifat@gmail.com]**
+- 📫 How to reach me **kautsarrifat@gmail.com**
 
 ## About Me
 
