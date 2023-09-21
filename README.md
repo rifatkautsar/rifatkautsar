@@ -15,7 +15,7 @@
 
 - **Name:** Muhamad Rifat Kautsar
 - **Expertise:** Mobile Development (Flutter, Android Native)
-- **Languages:** Kotlin, Dart
+- **Languages:** Kotlin, Dart, Java
 - **UI Frameworks:** Jetpack Compose, XML, Flutter
 
 ## Contact Me
