@@ -14,9 +14,10 @@
 ## About Me
 
 - **Name:** Muhamad Rifat Kautsar
-- **Expertise:** Mobile Development (Flutter, Android Native)
-- **Languages:** Kotlin, Dart, Java
+- **Expertise:** Mobile Development (Flutter, Android Native, React Native),Full-stack Development (Node.js, Express.js, Java Spring Boot)
+- **Languages:** Kotlin, Dart, Java , JavaScript
 - **UI Frameworks:** Jetpack Compose, XML, Flutter
+- **Backend Technologies:** PostgreSQL, Node.js, Express.js, Java Spring Boot
 
 ## Contact Me
 
