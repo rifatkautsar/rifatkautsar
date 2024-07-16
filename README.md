@@ -17,7 +17,7 @@
 - **Expertise:** Mobile Development (Flutter, Android Native, React Native),Full-stack Development (Node.js, Express.js, Java Spring Boot)
 - **Languages:** Kotlin, Dart, Java , JavaScript
 - **UI Frameworks:** Jetpack Compose, XML, Flutter
-- **Backend Technologies:** PostgreSQL, Node.js, Express.js, Java Spring Boot
+- **Backend Technologies:** PostgreSQL, Node.js, Express.js, Java Spring Boot, Nest.js
 
 ## Contact Me
 
